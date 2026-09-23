@@ -38,7 +38,7 @@ function logar() {
                 }))
 
                 setTimeout(function () {
-                    window.location = "../index.html";
+                    window.location = "../../index.html";
                 }, 1000); 
 
             });
